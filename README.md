@@ -1,3 +1,6 @@
+Forked from [getoutreach/bullhorn-rest](https://github.com/getoutreach/bullhorn-rest) - allow us to update, hasn't been touched since 2015
+
+
 # Bullhorn::Rest
 
 [![Code Climate](https://codeclimate.com/github/MrMattWright/bullhorn-rest.png)](https://codeclimate.com/github/MrMattWright/bullhorn-rest)
